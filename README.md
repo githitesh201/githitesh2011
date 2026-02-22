@@ -10,69 +10,90 @@
 🚀 MERN Stack | Backend Systems | APIs  
 🎓 B.Tech Computer Science (2022–2026)
 
-I like building scalable backend systems, APIs, and full stack applications.
+I enjoy building scalable backend systems, APIs, and full stack applications.
 
 ---
 
 # 🧠 About Me
 
 • MERN Stack Developer  
-• Strong interest in Backend Architecture  
-• Open Source Contributor  
+• Focus on Backend Architecture and APIs  
+• 350+ Open Source Contributions  
 • Research Paper Published  
-• Experience working with real production Node.js systems  
+• Experience with production Node.js systems  
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Skills
 
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
-### Frameworks
+---
+
+## Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
-### Tools
+---
+
+## Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+
+---
+
+## Methodologies & Concepts
+• Agile Development  
+• RESTful APIs  
+• Object Oriented Programming (OOP)  
+• MVC Architecture  
+• Modular Backend Design  
+• API Security  
+• AI Prompt Engineering  
 
 ---
 
 # 🚀 Projects
 
-### Axiom — Custom API Gateway
-• Modular API gateway using Node.js and Express  
-• API Key authentication  
-• Dynamic routing  
+## Axiom — Custom API Gateway
+• Modular API Gateway built with Node.js and Express  
+• API key authentication and request routing  
 • Rate limiting middleware  
-• Request logging system  
+• Logging layer for request monitoring  
+• Deployed backend service
 
-### ClientVault — MERN CRM Platform
-• CRM platform for managing business workflows  
-• JWT authentication with role access  
-• Client, project, invoice and task modules  
-• Built with MongoDB, Express, React and Node  
+---
+
+## ClientVault — MERN CRM Platform
+• Business management web app  
+• JWT authentication with role based access  
+• Client, project, task and invoice modules  
+• Built using MongoDB, Express, React, Node and Tailwind
 
 ---
 
 # 💼 Experience
 
-### Full Stack Developer Intern  
+## Full Stack Developer Intern  
 **Cognify Technology**
 
 • Debugged Node.js runtime issues  
-• Built QR-based UPI spend tracking  
-• Fixed Git merge conflicts across branches  
+• Implemented QR based UPI spend tracking  
+• Resolved Git merge conflicts  
 • Improved integration stability
 
 ---
@@ -89,7 +110,7 @@ I like building scalable backend systems, APIs, and full stack applications.
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=githitesh201&theme=github-dark&hide_border=true"/>
@@ -100,8 +121,8 @@ I like building scalable backend systems, APIs, and full stack applications.
 # 🏆 Achievements
 
 🥉 Bronze Medal — National Computer Olympiad  
-📈 350+ GitHub Contributions  
-📑 Published Research Paper  
+📈 350+ Open Source Contributions  
+📑 Research Paper Published  
 
 ---
 
